@@ -1,0 +1,19 @@
+O que são classes em POO?
+
+R:As Classes em POO são modelos ou moldes que definem a estrutura e o comportamento de objetos. Elas representam entidades do mundo real e possuem atributos e métodos que descrevem o que um objeto pode fazer e como ele se comporta.
+
+O que são objetos e metodos?
+
+R:Os objetos são entidades que representam uma parte do sistema e possuem atributos e comportamentos. 
+
+Métodos são ações ou operações que um objeto pode realizar, definindo seu comportamento. Em resumo, objetos são as "coisas" do sistema e métodos são as ações que essas "coisas" podem realizar.
+
+Explique public class e private class
+
+R:Public class é um modificador de acesso que permite que a classe seja acessível a partir de qualquer lugar no programa, incluindo outras classes que podem acessar, estender e criar instâncias dessa classe. 
+
+Private class é um modificador de acesso que restringe a visibilidade da classe apenas ao seu próprio arquivo fonte, impedindo que outras classes a acessem, estendam ou criem instâncias dela.
+
+O que são getters e setters?
+
+R:São frequentemente utilizados em POO para acessar e modificar os valores dos atributos de uma classe. Os getters são métodos que permitem obter o valor de um atributo, enquanto os setters são métodos que permitem alterar o valor de um atributo.
