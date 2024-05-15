@@ -1,0 +1,31 @@
+﻿1) O que é um padrão de projeto?
+
+
+R:Um padrão de projeto é uma solução comprovada e recorrente para um problema de design específico em sistemas orientados a objetos. Assim como escritores têm padrões narrativos familiares, os desenvolvedores de software seguem padrões de design reconhecidos para resolver problemas comuns.
+
+
+2) Quais os 4 elementos essenciais em um padrão?
+
+
+R:Nome do padrão: Uma referência que descreve o problema, suas soluções e consequências em poucas palavras, permitindo um vocabulário comum para comunicar e pensar sobre projetos.
+
+
+O problema: Descreve a situação em que o padrão é aplicável, explicando o contexto e, por vezes, listando condições para sua aplicação.
+
+
+A solução: Descreve os elementos do padrão, seus relacionamentos, responsabilidades e colaborações de forma abstrata, permitindo sua aplicação em diferentes contextos.
+
+
+As consequências: Analisa os resultados e trade-offs da aplicação do padrão, considerando aspectos como desempenho, reutilização, flexibilidade e portabilidade do sistema.
+
+
+3) Quais as diferenças entre projetistas experientes e novos projetistas?
+
+
+R:Os projetistas experientes entendem a importância da reutilização e da aplicação de soluções testadas e comprovadas. Eles aproveitam padrões de projeto e outras experiências passadas para criar designs de software mais adaptáveis e reutilizáveis, enquanto os novatos podem precisar de mais tempo para dominar esses conceitos.
+
+
+4) Deve-se sempre resolver um problema a partir do zero? Explique.
+
+
+R:Resolver um problema a partir do zero nem sempre é a melhor opção. Pois os projetistas experientes entendem que reinventar soluções para cada problema, que consome tempo e recursos, e muitas vezes não é eficiente. Em vez disso, eles preferem reutilizar soluções que foram bem-sucedidas no passado. Essa abordagem é facilitada pelo uso de padrões de projeto, que são soluções comprovadas para problemas comuns de design de software.
