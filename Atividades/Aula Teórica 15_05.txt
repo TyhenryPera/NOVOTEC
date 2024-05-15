@@ -1,6 +1,5 @@
 ﻿1) O que é um padrão de projeto?
 
-
 R:Um padrão de projeto é uma solução comprovada e recorrente para um problema de design específico em sistemas orientados a objetos. Assim como escritores têm padrões narrativos familiares, os desenvolvedores de software seguem padrões de design reconhecidos para resolver problemas comuns.
 
 
