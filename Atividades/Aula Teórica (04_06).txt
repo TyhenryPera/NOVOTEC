@@ -1,0 +1,28 @@
+﻿1) A que se refere a onipresença citada no pdf?
+
+
+R: Computação ubíqua é quando pessoas e computadores interagem sem a gente nem perceber. Isso acontece quando a gente usa a tecnologia de forma bem natural, como conversar com alguém, sem perceber que estamos lidando com um computador.
+
+
+2)Pesquise uma API diferente da falada em sala e explique ela.
+
+
+R: Um exemplo é a Google Translate API, que permite que aplicativos e sites ofereçam serviços de tradução em tempo real aos usuários. Essa API atua como uma ponte, permitindo que os desenvolvedores se comuniquem com os recursos de tradução do Google de acordo com as regras estabelecidas pela API.
+
+
+3)O que é o HTML citado no pdf?
+
+
+R: O HTML é uma linguagem de marcação usada para criar páginas da web. Ele funciona em conjunto com outras linguagens, como CSS e JavaScript, para desenvolver não apenas aplicações móveis, mas também websites e diversas outras aplicações web. 
+
+
+4)O que é o aplicativo híbrido? Qual a diferença entre ele e um aplicativo sem ser híbrido?
+
+
+R: Um aplicativo híbrido combina tecnologias web dentro de um invólucro nativo, permitindo que funcione em várias plataformas. Já o um aplicativo não híbrido é desenvolvido exclusivamente para uma plataforma específica, o que geralmente resulta em melhor desempenho e integração com os recursos exclusivos daquela plataforma.
+
+
+5)Quando falamos de desenvolvimento quais as dificuldades de se trabalhar em mobile comparado em desktop?
+
+
+Ao desenvolver para dispositivos móveis, lidamos como telas menores, resoluções variadas e recursos limitados de CPU e memória. Por outro lado, no desktop, temos mais espaço de tela, maior poder de processamento e memória, mas também a complexidade de lidar com uma variedade de navegadores e sistemas operacionais.
