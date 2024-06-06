@@ -1,0 +1,14 @@
+1)O que é CID e ACID?
+
+R: O CID (Confidencialidade, Integridade e Disponibilidade) a confidencialidade é sobre manter informações em segredo, especialmente em computadores, onde muitas operações podem comprometer isso. Para proteger a confidencialidade, ferramentas precisam incluir criptografia, controle de acesso, autenticação, autorização e medidas de segurança física. Já a integridade age para assegurar que a informação não seja alterada de maneira não autorizada.
+
+Já a integridade assegura que a informação não foi alterada sem autorização. Além das medidas de confidencialidade, existem outras como backups, somas de verificação e códigos de correção de dados, que têm em comum a redundância, replicando informações para detectar ou corrigir problemas de integridade.
+
+A disponibilidade garante que a informação esteja acessível e modificável quando necessário para as pessoas autorizadas. Isso envolve medidas como proteções físicas e redundância computacionais. Portanto, junto com a confidencialidade e integridade, forma uma base importante para a segurança da informação.
+
+ACID (Atomicidade, Consistência, Isolamento e Du-
+rabilidade) em aplicativos móveis, conectar-se a bancos de dados remotos pode ser um grande desafio para o desempenho. Antes de obter respostas do banco de dados, várias verificações são feitas para garantir segurança e consistência das transações. Isso aumenta o tempo de resposta para os usuários. Técnicas como compressão de dados, paginação e caching ajudam a reduzir esse tempo. É crucial garantir a integridade, segurança e desempenho dos dados móveis durante o desenvolvimento, com princípios como ACID sendo fundamentais.
+
+2)Explique o SQLite
+
+R: Funciona basicamente como um servidor próprio e independente, já que o Sistema de Gerenciamento de Banco de Dados pode ser executado na mesma instância, eliminando assim as consultas e processos separados. O que significa que não requer um servidor separado para operar. Ele é incorporado diretamente à aplicação, permitindo que o Sistema de Gerenciamento de Banco de Dados seja executado na mesma instância. Isso elimina a necessidade de consultas e processos separados, simplificando o desenvolvimento e a execução de aplicativos que exigem armazenamento de dados.
