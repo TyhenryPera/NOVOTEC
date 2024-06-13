@@ -1,0 +1,11 @@
+Pesquise uma metodologia ágil e fale brevemente sobre ela
+
+R: O Scrum é uma metodologia ágil que se concentra em dividir o trabalho em ciclos curtos chamados "sprints", geralmente de duas a quatro semanas. Durante cada sprint, uma equipe multifuncional trabalha para entregar um incremento de software funcional. O processo é guiado por reuniões diárias curtas chamadas "daily scrums" para manter todos alinhados, além de reuniões de planejamento, revisão e retrospectiva no início, meio e final de cada sprint para garantir transparência e aprendizado contínuo.
+
+O que é modelagem de requisitos?
+
+R: A modelagem de requisitos é o processo de capturar, analisar e especificar as necessidades e funcionalidades de um software. Isso inclui identificar os stakeholders e categorias de usuários, compreender o contexto de negócio, definir metas de aplicação, descrever cenários de uso e detalhar os requisitos funcionais e não funcionais do sistema. 
+
+Quais são os requisitos funcionais e não funcionais?
+
+R: Os requisitos funcionais incluem as funcionalidades específicas que um aplicativo deve oferecer, como criar uma conta de usuário, fazer login, navegar por diferentes seções, realizar compras, enviar mensagens, entre outras ações. Já os requisitos não funcionais referem-se às características do sistema que não estão diretamente relacionadas às funcionalidades, mas são igualmente importantes para sua qualidade e desempenho.
