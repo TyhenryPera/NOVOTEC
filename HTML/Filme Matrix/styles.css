@@ -1,0 +1,109 @@
+/* Geral */
+body {
+    font-family: Arial, sans-serif;
+    color: #fff;
+    background-color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #000;
+    color: #0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #0f0;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+section {
+    padding: 20px;
+}
+
+.main-image {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+}
+
+.gallery {
+    display: flex;
+    gap: 10px;
+}
+
+.gallery-image {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+}
+
+.character {
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form label {
+    margin-top: 10px;
+}
+
+form input, form textarea {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #0f0;
+    background-color: #111;
+    color: #fff;
+}
+
+form button {
+    padding: 10px;
+    background-color: #0f0;
+    border: none;
+    color: #000;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #0c0;
+}
+
+footer {
+    background-color: #000;
+    color: #0f0;
+    text-align: center;
+    padding: 10px;
+}
+
+footer a {
+    color: #0f0;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
