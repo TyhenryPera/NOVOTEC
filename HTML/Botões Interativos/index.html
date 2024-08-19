@@ -7,17 +7,47 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="button-container">
-        <button class="button1" onclick="buttonFunction1()">Botão 1</button>
-        <button class="button2" onclick="buttonFunction2()">Botão 2</button>
-        <button class="button3" onclick="buttonFunction3()">Botão 3</button>
-        <button class="button4" onclick="buttonFunction4()">Botão 4</button>
-        <button class="button5" onclick="buttonFunction5()">Botão 5</button>
-        <button class="button6" onclick="buttonFunction6()">Botão 6</button>
-        <button class="button7" onclick="buttonFunction7()">Botão 7</button>
-        <button class="button8" onclick="buttonFunction8()">Botão 8</button>
-        <button class="button9" onclick="buttonFunction9()">Botão 9</button>
-        <button class="button10" onclick="buttonFunction10()">Botão 10</button>
+    <div class="container">
+        <div class="title-section">
+            <h1>10 Botões Interativos</h1>
+        </div>
+        <div class="button-container">
+            <button class="button button1" onclick="buttonFunction1()">Botão 1</button>
+            <button class="button button2" onclick="buttonFunction2()">Botão 2</button>
+            <button class="button button3" onclick="buttonFunction3()">Botão 3</button>
+            <button class="button button4" onclick="buttonFunction4()">Botão 4</button>
+            <button class="button button5" onclick="buttonFunction5()">Botão 5</button>
+            <button class="button button6" onclick="buttonFunction6()">Botão 6</button>
+            <button class="button button7" onclick="buttonFunction7()">Botão 7</button>
+            <button class="button button8" onclick="buttonFunction8()">Botão 8</button>
+            <button class="button button9" onclick="buttonFunction9()">Botão 9</button>
+            <button class="button button10" onclick="buttonFunction10()">Botão 10</button>
+        </div>
+        <footer class="info-section">
+            <h3>HTML</h3>
+            <p>No HTML, criamos a estrutura básica do site com uma <code>&lt;div&gt;</code> principal contendo uma seção de informações e uma seção de botões. Cada botão é criado com a tag <code>&lt;button&gt;</code> e atribuímos a cada um uma classe específica para aplicar estilos diferenciados. As funções <code>buttonFunctionX()</code> são associadas ao evento de clique dos botões e podem ser definidas no arquivo <code>script.js</code>.</p>
+            
+            <h3>CSS</h3>
+            <p>No CSS, aplicamos estilos para os botões e o layout geral da página. Aqui estão os principais aspectos:</p>
+            <ul>
+                <li><code>* { margin: 0; padding: 0; box-sizing: border-box; }</code>: Remove margens e preenchimento padrão e define o box-sizing como border-box para facilitar o controle do tamanho dos elementos.</li>
+                <li><code>body { font-family: Arial, sans-serif; background-color: #ffffff; }</code>: Define a fonte padrão e a cor de fundo da página como branca.</li>
+                <li><code>.container</code>: Centraliza o conteúdo da página, aplica uma cor de fundo leve, bordas arredondadas e uma sombra para criar um efeito de profundidade.</li>
+                <li><code>.title-section</code>: Alinha o título no centro e adiciona uma margem inferior para espaçamento.</li>
+                <li><code>.button-container</code>: Organiza os botões em uma grade flexível, garantindo que eles se ajustem ao tamanho da tela e estejam centralizados.</li>
+                <li><code>.button</code>: Define o estilo básico dos botões, incluindo tamanho, cor do texto, bordas, arredondamento, tamanho da fonte e efeitos de transição para interações suaves.</li>
+                <li><code>background-color</code>: Define a cor de fundo dos botões. Cada botão possui uma cor distinta para facilitar a identificação.</li>
+                <li><code>border-radius</code>: Arredonda os cantos dos botões para um visual mais suave.</li>
+                <li><code>transform</code>: Utilizado para aplicar efeitos de animação quando o mouse passa sobre o botão, como <code>scale</code> (ampliar), <code>rotate</code> (rotacionar) e <code>translate</code> (mover).</li>
+                <li><code>transition</code>: Adiciona animações suaves para as transformações e mudanças de cor, melhorando a experiência do usuário.</li>
+                <li><code>box-shadow</code>: Cria uma sombra ao redor dos botões durante o efeito de hover, destacando ainda mais a interação.</li>
+            </ul>
+            <p>Esses estilos combinados ajudam a criar uma interface interativa e visualmente atraente.</p>
+            
+            <h3>JavaScript</h3>
+            <p>No arquivo <code>script.js</code>, definimos funções JavaScript que são chamadas quando os botões são clicados. Essas funções podem ser personalizadas para executar ações específicas, como exibir mensagens ou manipular o DOM.</p>
+        </footer>
     </div>
+    <script src="script.js"></script>
 </body>
 </html>
